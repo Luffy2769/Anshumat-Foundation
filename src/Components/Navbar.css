@@ -1,0 +1,12 @@
+.dntbtn{
+    border-radius: 26px;
+    padding: 12px 12px;
+    background-color: rgb(255, 196, 33);
+    color: white;
+    border: none;
+}
+
+.dntbtn:hover{
+    cursor: pointer;
+    background-color: rgb(122, 25, 25);
+}

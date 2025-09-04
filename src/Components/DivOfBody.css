@@ -1,0 +1,20 @@
+.bbx{
+    border-radius: 23px;
+    background-color: white;
+    height: 300px;
+}
+
+.bbx p{
+    padding-right: 80px;
+
+}
+
+.container-fluid{
+    margin-top: -9vh;
+    position: relative;
+    z-index: 10;
+}
+
+.col-lg-4:not(:last-child) {
+  border-right: 1px solid #ddd;
+}

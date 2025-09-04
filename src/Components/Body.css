@@ -1,0 +1,8 @@
+@keyframes ripple {
+  0% { box-shadow: 0 0 0 0 rgba(220, 53, 69, 0.5); }
+  100% { box-shadow: 0 0 0 20px rgba(220, 53, 69, 0); }
+}
+
+.ripple-btn {
+  animation: ripple 2.0s infinite;
+}
